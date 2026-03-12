@@ -1,1 +1,1 @@
-# Botania-Spanish-Translation
+Want your mod to go global? I offer technical localization for any mod. I don't just edit .json files; I can dive into the source code to fix hardcoded strings and UI alignment for a complete translation. Author of the Botania Spanish Translation resource pack. 📞 WhatsApp: +5351922324 🎮 Discord: YowShy 🚀 #Minecraft #Translation
